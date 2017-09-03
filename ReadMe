@@ -1,0 +1,5 @@
+## the respository contains a simulink model for simulating a quarter car rail carriage model for vibration isolation.## 
+
+
+* The repository includes research papers published by me which use the same model for the results included in this respository. 
+* simply run the model in simulink and gain parameters can be changed to get create a model as needed. 
